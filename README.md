@@ -20,11 +20,7 @@ It combines a clean data model with custom DAX calculations and interactive visu
 🪄 Tooltip detail page showing category-level insights
 
 
-🗂️ Repository Structure
 
-/report – Power BI .pbix file
-
-/scripts – Snowflake SQL script used to define tables and load the dataset
 
 ❄️ Snowflake & Data Model
 
